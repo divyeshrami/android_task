@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="username_hint">Enter Username</string>
+    <string name="password_hint">Enter Password</string>
+    <string name="login">Login</string>
+
+    <string name="please_enter_username">Please enter user name!</string>
+    <string name="enter_username_below_thirty">Username max length 30</string>
+    <string name="enter_password_below_sixteen">Password max length 16</string>
+    <string name="please_enter_password">Please enter password!</string>
+    <string name="app_name">ClientDemo</string>
+</resources>
